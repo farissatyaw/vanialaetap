@@ -1,0 +1,12 @@
+/* Webfont: Daavi-RegularDemo */@font-face {
+    font-family: 'Daavi';
+    src: url('Daavi-RegularDemo.eot'); /* IE9 Compat Modes */
+    src: url('Daavi-RegularDemo.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Daavi-RegularDemo.woff') format('woff'), /* Modern Browsers */
+         url('Daavi-RegularDemo.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Daavi-RegularDemo.svg#Daavi-RegularDemo') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
